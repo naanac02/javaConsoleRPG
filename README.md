@@ -30,3 +30,6 @@ This is a RPG that was written in Java which uses the console to play. Looking f
 1. Create Intro.
 
 2. Added placeholders for stats menu, tutorial, inventory, and chapter one.
+
+3. FYX TIPO
+
